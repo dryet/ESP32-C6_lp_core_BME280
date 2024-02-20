@@ -1,0 +1,5 @@
+C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/CMakeFiles/lp_core_main.dir
+C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/CMakeFiles/ld_script.dir
+C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/CMakeFiles/build.dir
+C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/CMakeFiles/edit_cache.dir
+C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/CMakeFiles/rebuild_cache.dir

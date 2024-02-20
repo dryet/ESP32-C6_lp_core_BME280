@@ -1,0 +1,25 @@
+# ninja log v5
+11	119	7301317235559920	lp_core_riscv.ld	84e243eb195ed632
+11	119	7301317235559920	C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/lp_core_riscv.ld	84e243eb195ed632
+132	436	7301317238631711	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/ulp/lp_core/lp_core/start.S.obj	41443b8e8455e6ac
+145	556	7301317239718800	CMakeFiles/lp_core_main.dir/4825b6c26486c8ba01e5a5f83f3d72e2/lp_core/shared/ulp_lp_core_memory_shared.c.obj	e5d9f78cb7edca78
+163	705	7301317241204821	CMakeFiles/lp_core_main.dir/383bb4b927027072fa50c42619216014/ulp/lp_core/lp_core/lp_core_startup.c.obj	34cee0f5d69c19fd
+194	752	7301317241623705	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/hal/uart_hal_iram.c.obj	ce2ab7183687235f
+120	845	7301317241843114	CMakeFiles/lp_core_main.dir/f029f8e6447b2e29e0ffc3f66dff3f51/ESP32-C6_lp_core_BME280/main/lp_core/main.c.obj	31c8d18609392b5a
+184	915	7301317243408941	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/ulp/lp_core/lp_core/lp_core_utils.c.obj	655fa37eabfb31c2
+202	1045	7301317244665572	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/hal/uart_hal.c.obj	28db3f9a0aff2506
+126	1046	7301317244745366	CMakeFiles/lp_core_main.dir/a5a4189e983da4e5cfb9b5b974ddc3c6/main/lp_core/lp_components/bme280/bme280.c.obj	91c04afea60747b1
+155	1085	7301317244825142	CMakeFiles/lp_core_main.dir/4825b6c26486c8ba01e5a5f83f3d72e2/lp_core/shared/ulp_lp_core_lp_timer_shared.c.obj	aae1fff377d485b6
+139	1087	7301317245054522	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/ulp/lp_core/lp_core/vector.S.obj	6944c9cb03f28619
+438	1208	7301317246460763	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/ulp/lp_core/lp_core/lp_core_uart.c.obj	1968dfb670ed30cc
+557	1277	7301317247148944	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/ulp/lp_core/lp_core/lp_core_print.c.obj	28024925287e4435
+705	1420	7301317248585071	CMakeFiles/lp_core_main.dir/C_/Espressif/frameworks/esp-idf/components/ulp/lp_core/lp_core/lp_core_i2c.c.obj	2fdd5679c3db959
+1420	1566	7301317249881606	lp_core_main.elf	690fcdaade8da80
+1572	1668	7301317251088392	lp_core_main.sym	ce965c31ad0b879c
+1572	1668	7301317251088392	C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/lp_core_main.sym	ce965c31ad0b879c
+1566	1676	7301317251078403	lp_core_main.bin	70af38604818189a
+1566	1676	7301317251078403	C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/lp_core_main.bin	70af38604818189a
+1669	1825	7301317252534525	lp_core_main.ld	6e9d1d055021ab8a
+1669	1825	7301317252534525	lp_core_main.h	6e9d1d055021ab8a
+1669	1825	7301317252534525	C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/lp_core_main.ld	6e9d1d055021ab8a
+1669	1825	7301317252534525	C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main/lp_core_main.h	6e9d1d055021ab8a

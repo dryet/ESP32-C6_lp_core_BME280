@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/CMakeFiles/lp_core_main"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/CMakeFiles/lp_core_main.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/CMakeFiles/lp_core_main-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-build.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-download.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-install.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/build/esp-idf/main/lp_core_main-prefix/src/lp_core_main-stamp/lp_core_main-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"lp_core_main"
+		],
+		"name" : "lp_core_main"
+	}
+}
