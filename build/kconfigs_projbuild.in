@@ -1,6 +1,0 @@
-source "C:/Espressif/frameworks/esp-idf/components/bootloader/Kconfig.projbuild"
-source "C:/Espressif/frameworks/esp-idf/components/esp_app_format/Kconfig.projbuild"
-source "C:/Espressif/frameworks/esp-idf/components/esp_rom/Kconfig.projbuild"
-source "C:/Espressif/frameworks/esp-idf/components/esptool_py/Kconfig.projbuild"
-source "C:/Espressif/frameworks/esp-idf/components/partition_table/Kconfig.projbuild"
-source "C:/Users/Petr/Programming/Espressif_IDE_workspaces/ESP32-C6/BME280_lp_core_master/ESP32-C6_lp_core_BME280/main/Kconfig.projbuild"
